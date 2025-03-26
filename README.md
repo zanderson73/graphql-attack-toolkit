@@ -96,38 +96,3 @@ Contact: zanderson@iscsecurity.org
 This `README.md` includes all the necessary sections: overview, toolkit contents, setup instructions, script usage, and example commands.
 
 You can copy this into the `README.md` file in your project folder, and it should be ready for GitHub. Once you're set, you can proceed with uploading the whole toolkit to your GitHub repository. Let me know if you need further help!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# graphql-attack-toolkit
-# graphql-attack-toolkit
